@@ -1,6 +1,6 @@
 # feedback-form-module
 Module for Opencart 3
-1. Завантажити пакет через стандартний менеджер завантажень https://prnt.sc/SmCgtJLCeX9_
+1. Завантажити пакет через стандартний менеджер завантажень https://prnt.sc/ECB2qVxaBLVm
 2. Далі зробити Install та вімкнути сам модуль https://prnt.sc/R6sl0M-2foDL ,
  там же можно буде дивитися лістінг данних юзерів що залишили повідомлення https://prnt.sc/XFs339sp4bpe
 3. Після ввімкнення або вимкнення модуля не забувайте оновити кеш модифікаторів https://prnt.sc/asCfldh38RNT
